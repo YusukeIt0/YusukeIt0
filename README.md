@@ -2,7 +2,7 @@
 
 **Japanese startup operator based in Bangkok, Thailand.**
 
-I help startups build their businesses and teams, and connect with the people they need.
+I help Japanese startups build their businesses and teams, connect with international VCs and corporate partners, and expand globally.
 
 ### Selected experience
 
