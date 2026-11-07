@@ -10,7 +10,7 @@ I help Japanese startups build their businesses and teams, connect with internat
   Contributed to the proposal and design at EQUES, leading to a contract with AMED, Japan’s medical research funding agency.
 
 - **2026｜MIC ICT Startup League**  
-  Hands-on support for startups in a Japanese national government program.
+  Hands-on support for 9 startups in a Japanese national government program.
 
 - **2026｜TOKYO SUTEAM**  
   Startup support and international connections through a Tokyo Metropolitan Government program.
