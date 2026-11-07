@@ -6,9 +6,14 @@ I help Japanese startups build their businesses and teams, connect with internat
 
 ### Selected experience
 
-- **2025｜AMED AI platform project, EQUES** — Proposal and design as part of EQUES. AMED is Japan’s medical research funding agency.
-- **2026｜MIC ICT Startup League, Japan** — Hands-on support for startups in a national government program.
-- **2026｜TOKYO SUTEAM** — Startup support and international connections through a Tokyo Metropolitan Government program.
+- **2025｜AMED AI platform project**  
+  Proposal and design as part of EQUES. AMED is Japan’s medical research funding agency.
+
+- **2026｜MIC ICT Startup League**  
+  Hands-on support for startups in a Japanese national government program.
+
+- **2026｜TOKYO SUTEAM**  
+  Startup support and international connections through a Tokyo Metropolitan Government program.
 
 ## How I think
 
