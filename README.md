@@ -7,7 +7,7 @@ I help startups build their businesses and teams, and connect with the people th
 ### Selected experience
 
 - **2025｜AMED AI platform project, EQUES** — Proposal and design as part of EQUES.
-- **2026｜ICT Startup League, Japan** — Hands-on startup support.
+- **2026｜MIC ICT Startup League, Japan** — Hands-on startup support.
 - **2026｜TOKYO SUTEAM** — Startup support and international connections.
 
 ## How I think
